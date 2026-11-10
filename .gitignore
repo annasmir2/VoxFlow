@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Node / frontend
+node_modules/
+.next/
+out/
+coverage/
+.npm/
+
+# Build and test outputs
+*.log
+*.sqlite3
+*.db
+app.db
+backend/app.db
+frontend/.next/
+backend/.pytest_cache/
+.pytest_cache/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local runtime
+*.local

@@ -1,0 +1,1 @@
+VoxFlow AI is a voice-first productivity assistant built to turn natural spoken instructions into actionable reminders. The app combines a lightweight dashboard, microphone input, AI reminder interpretation, reminder persistence, and browser notification support to help a user capture everyday tasks without typing them manually.
